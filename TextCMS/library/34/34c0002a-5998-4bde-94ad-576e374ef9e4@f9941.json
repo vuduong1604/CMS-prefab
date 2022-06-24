@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Group2da",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 134,
+      "height": 134
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 134,
+      "height": 134
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "34c0002a-5998-4bde-94ad-576e374ef9e4@6c48a",
+    "packable": true
+  }
+}

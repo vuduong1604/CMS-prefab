@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Group 349",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 134,
+      "height": 134
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 134,
+      "height": 134
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "e514fc58-24b5-4eb3-ae04-548039910f5f@6c48a",
+    "packable": true
+  }
+}

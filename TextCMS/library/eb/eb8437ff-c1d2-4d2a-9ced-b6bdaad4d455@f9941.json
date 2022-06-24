@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "uploadsmall",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 8,
+      "width": 50,
+      "height": 34
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 50,
+      "height": 50
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "eb8437ff-c1d2-4d2a-9ced-b6bdaad4d455@6c48a",
+    "packable": true
+  }
+}

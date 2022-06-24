@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "answer",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 1,
+      "width": 302,
+      "height": 302
+    },
+    "offset": {
+      "x": 0,
+      "y": -0.5
+    },
+    "originalSize": {
+      "width": 302,
+      "height": 303
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "c3166759-e3cb-4e01-8bd3-97b94de29df7@6c48a",
+    "packable": true
+  }
+}

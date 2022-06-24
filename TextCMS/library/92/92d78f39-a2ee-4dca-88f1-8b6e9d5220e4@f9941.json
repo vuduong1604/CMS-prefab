@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ico_time",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 334,
+      "height": 160
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 334,
+      "height": 160
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "92d78f39-a2ee-4dca-88f1-8b6e9d5220e4@6c48a",
+    "packable": true
+  }
+}

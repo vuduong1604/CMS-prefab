@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_circle_small",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 30,
+      "height": 35
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 30,
+      "height": 35
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "01e8c953-ac7d-4cc5-b22e-046d0650cb04@6c48a",
+    "packable": true
+  }
+}

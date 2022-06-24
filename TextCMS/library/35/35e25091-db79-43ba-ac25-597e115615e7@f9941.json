@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Group 352",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 377,
+      "height": 134
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 377,
+      "height": 134
+    },
+    "rotated": false,
+    "capInsets": [
+      49,
+      38,
+      48,
+      51
+    ],
+    "texture": "35e25091-db79-43ba-ac25-597e115615e7@6c48a",
+    "packable": true
+  }
+}

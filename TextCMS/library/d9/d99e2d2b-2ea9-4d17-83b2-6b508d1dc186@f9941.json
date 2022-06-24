@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Ellipse 3469",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 367,
+      "height": 367
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 367,
+      "height": 367
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "d99e2d2b-2ea9-4d17-83b2-6b508d1dc186@6c48a",
+    "packable": true
+  }
+}

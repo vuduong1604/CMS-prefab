@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "o chu nhat 4",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 291,
+      "height": 150
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 291,
+      "height": 150
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "0975b6b0-f2d9-4996-9083-5ffff30afdb2@6c48a",
+    "packable": true
+  }
+}

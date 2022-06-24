@@ -1,0 +1,11 @@
+{
+    "systemInfo": {
+        "arch": "x64",
+        "cpu": "12th Gen Intel(R) Core(TM) i7-12700",
+        "version": "Windows 10 Pro"
+    },
+    "sceneListMap": {
+        "56033f84-bba0-4fd0-8fbb-2c80b2f873c5": "D:\\CMS\\TextCMS\\assets\\scene.scene"
+    },
+    "deviceMd5": "e901965b2fcc40cdf36351c4a818c574"
+}

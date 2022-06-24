@@ -1,0 +1,1370 @@
+{
+  "D:\\dientuphudong\\assets\\font": {
+    "time": 1655889806735.9978,
+    "uuid": "aa4da401-6572-4d7c-b968-2cb089cd4854",
+    "missing": false
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export": {
+    "time": 1655889806731.1294,
+    "uuid": "12a25a6b-28e6-4701-bc89-b6a113c767e7",
+    "missing": true
+  },
+  "D:\\dientuphudong\\assets\\gamekeo.khunglong.4.1 - Copy": {
+    "time": 1655889806634.4531,
+    "uuid": "695808a0-5414-44f0-b1d6-69176b0babfd",
+    "missing": true
+  },
+  "D:\\dientuphudong\\assets\\Prefab": {
+    "time": 1655889806741.98,
+    "uuid": "4b3b7f43-5608-4fbe-9f33-5e8abb08d15a",
+    "missing": false
+  },
+  "D:\\dientuphudong\\assets\\scene.scene": {
+    "time": 1655889805897.9763,
+    "uuid": "56033f84-bba0-4fd0-8fbb-2c80b2f873c5",
+    "missing": false
+  },
+  "D:\\dientuphudong\\assets\\Scripts": {
+    "time": 1655889806739.9868,
+    "uuid": "601b3650-3445-41cb-bf3b-fbff14071fe2",
+    "missing": false
+  },
+  "D:\\dientuphudong\\assets\\font\\ERASBD_0.TTF": {
+    "time": 1655889805910.9329,
+    "uuid": "156cb313-4942-457d-be78-d971e6ea8e0f",
+    "missing": false
+  },
+  "D:\\dientuphudong\\assets\\font\\Myriad Pro Bold.ttf": {
+    "time": 1655889805912.9255,
+    "uuid": "ed26de12-b5a8-4c33-9abc-8952c961f75d",
+    "missing": false
+  },
+  "D:\\dientuphudong\\assets\\font\\PaytoneOne-Regular.ttf": {
+    "time": 1655889805914.9202,
+    "uuid": "0a26ed82-4e6a-4e27-bc07-0d1e40637f1a",
+    "missing": false
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\bg_popup_help.png": {
+    "time": 1655889805939.8367,
+    "uuid": "e93b816d-775e-4be5-af05-c3f577698129",
+    "missing": false
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\bg_popup_help_text.png": {
+    "time": 1655889805963.7563,
+    "uuid": "9ed1caa2-cfc8-4a92-9356-875e80108abe",
+    "missing": true
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\bg_q.png": {
+    "time": 1655889805988.6726,
+    "uuid": "0250cfd9-8c65-4856-be01-b6b28940d863",
+    "missing": true
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\bg_q_text.png": {
+    "time": 1655889806013.5896,
+    "uuid": "2aca6ce7-9143-4a7d-84d2-d974c4eb4cc0",
+    "missing": true
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\bg_q_vien.png": {
+    "time": 1655889806015.5828,
+    "uuid": "aead32fe-0094-4a22-a591-95beb2e7c3f1",
+    "missing": true
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\btn_answer.png": {
+    "time": 1655889806040.4993,
+    "uuid": "4ce2a2f9-eb50-4c14-a987-98c7f822005b",
+    "missing": true
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\btn_answer2.png": {
+    "time": 1655889806064.4182,
+    "uuid": "5560fe63-0211-44e5-aa20-0bd7759a1166",
+    "missing": true
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\btn_answer_chon.png": {
+    "time": 1655889806090.3318,
+    "uuid": "f3c4e6b5-9409-4865-8d5b-e64d76322704",
+    "missing": false
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\btn_answer_chon_text.png": {
+    "time": 1655889806119.2368,
+    "uuid": "b88df05d-3a49-4b19-8073-71122bd2dfe5",
+    "missing": true
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\btn_back.png": {
+    "time": 1655889806144.1526,
+    "uuid": "e0b927c0-6e2d-42b4-a0b8-33c6b4c581aa",
+    "missing": false
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\btn_circle_big.png": {
+    "time": 1655889806170.066,
+    "uuid": "f2a54101-8741-46df-8b8b-66f1a877d72f",
+    "missing": false
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\btn_circle_small.png": {
+    "time": 1655889806195.9778,
+    "uuid": "01e8c953-ac7d-4cc5-b22e-046d0650cb04",
+    "missing": false
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\btn_help.png": {
+    "time": 1655889806222.889,
+    "uuid": "2608ef44-c255-43a4-98d5-bc7f7c2ca731",
+    "missing": false
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\btn_next.png": {
+    "time": 1655889806246.8088,
+    "uuid": "6c5cec2e-5c84-4227-b8d5-121d404bba7f",
+    "missing": false
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\Game chon HCN.png": {
+    "time": 1655889806250.7952,
+    "uuid": "09bf1e68-099c-4c74-88a0-c6dd7a40979b",
+    "missing": true
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\Group 349.png": {
+    "time": 1655889806251.792,
+    "uuid": "e514fc58-24b5-4eb3-ae04-548039910f5f",
+    "missing": false
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\Group 351.png": {
+    "time": 1655889806252.7888,
+    "uuid": "742de80e-4e26-4dbd-a069-62639005ef1a",
+    "missing": false
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\Group 352.png": {
+    "time": 1655889806254.782,
+    "uuid": "35e25091-db79-43ba-ac25-597e115615e7",
+    "missing": false
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\Group2da.png": {
+    "time": 1655889806255.7795,
+    "uuid": "34c0002a-5998-4bde-94ad-576e374ef9e4",
+    "missing": false
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\ico_close_big 3.png": {
+    "time": 1655889806257.7722,
+    "uuid": "643c55e9-6dc0-4a60-8ebc-15538b843463",
+    "missing": false
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\ico_nopbai.png": {
+    "time": 1655889806280.6958,
+    "uuid": "0e23baa1-280e-44c4-a6a4-d5c534090209",
+    "missing": false
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\ico_time.png": {
+    "time": 1655889806307.6055,
+    "uuid": "92d78f39-a2ee-4dca-88f1-8b6e9d5220e4",
+    "missing": false
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\ico_x.png": {
+    "time": 1655889806333.5188,
+    "uuid": "cf5a1c5e-7cb8-4cf2-9ddf-ef42bb8394e3",
+    "missing": false
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\Untitled-1 1.png": {
+    "time": 1655889806334.517,
+    "uuid": "a24e901d-fdea-44ff-b7a2-aef2abd7f5ad",
+    "missing": false
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\Untitled-1da1.png": {
+    "time": 1655889806335.5117,
+    "uuid": "e1a0b739-b759-4a36-83e8-98984d1eca40",
+    "missing": false
+  },
+  "D:\\dientuphudong\\assets\\gamekeo.khunglong.4.1 - Copy\\bg_answer.png": {
+    "time": 1655889806336.51,
+    "uuid": "54bf7772-126a-4c92-821e-a60bebe8aea3",
+    "missing": true
+  },
+  "D:\\dientuphudong\\assets\\gamekeo.khunglong.4.1 - Copy\\bg_answer1.png": {
+    "time": 1655889806338.5017,
+    "uuid": "42574d4a-cf9b-4796-a3c5-b747d5f0d130",
+    "missing": true
+  },
+  "D:\\dientuphudong\\assets\\gamekeo.khunglong.4.1 - Copy\\bg_answer2.png": {
+    "time": 1655889806339.4985,
+    "uuid": "94b71f54-97fb-43bc-a284-3851ded3c7d7",
+    "missing": true
+  },
+  "D:\\dientuphudong\\assets\\gamekeo.khunglong.4.1 - Copy\\bg_answer4.png": {
+    "time": 1655889806340.4958,
+    "uuid": "94251a4e-d882-4058-8803-b09ef4bc5c6b",
+    "missing": true
+  },
+  "D:\\dientuphudong\\assets\\gamekeo.khunglong.4.1 - Copy\\bg_Khunglong.png": {
+    "time": 1655889806342.489,
+    "uuid": "52d2212b-5774-4345-b4d9-8309a01dbabf",
+    "missing": true
+  },
+  "D:\\dientuphudong\\assets\\gamekeo.khunglong.4.1 - Copy\\bg_popup_help.png": {
+    "time": 1655889806343.4858,
+    "uuid": "85abf2fe-4302-4529-ae59-1c64e18160bd",
+    "missing": true
+  },
+  "D:\\dientuphudong\\assets\\gamekeo.khunglong.4.1 - Copy\\bg_popup_help_text.png": {
+    "time": 1655889806344.4824,
+    "uuid": "d2576c92-79da-4f18-8509-949b2c0ef467",
+    "missing": true
+  },
+  "D:\\dientuphudong\\assets\\gamekeo.khunglong.4.1 - Copy\\bg_q.png": {
+    "time": 1655889806345.4785,
+    "uuid": "48e2e7e9-0c67-4fc4-9568-a639fa9f83e1",
+    "missing": true
+  },
+  "D:\\dientuphudong\\assets\\gamekeo.khunglong.4.1 - Copy\\bg_q1.png": {
+    "time": 1655889806348.469,
+    "uuid": "86d8e6d9-fd1d-4b7e-b0e6-e435c1df9eb2",
+    "missing": true
+  },
+  "D:\\dientuphudong\\assets\\gamekeo.khunglong.4.1 - Copy\\demotext.png": {
+    "time": 1655889806350.4617,
+    "uuid": "f1318143-f5be-478a-912a-d7edf73e3369",
+    "missing": true
+  },
+  "D:\\dientuphudong\\assets\\gamekeo.khunglong.4.1 - Copy\\gamekeo-Khung Long-4-1.png": {
+    "time": 1655889806354.4487,
+    "uuid": "a9f247bd-09cf-4d07-854d-0ad827b01f4f",
+    "missing": true
+  },
+  "D:\\dientuphudong\\assets\\gamekeo.khunglong.4.1 - Copy\\text_quest.png": {
+    "time": 1655889806354.4487,
+    "uuid": "c793ccfa-0253-49b9-b2e8-874b39ebe464",
+    "missing": true
+  },
+  "D:\\dientuphudong\\assets\\gamekeo.khunglong.4.1 - Copy\\upload.png": {
+    "time": 1655889806356.442,
+    "uuid": "fa722d26-586a-40ea-b7d7-439e936bd402",
+    "missing": true
+  },
+  "D:\\dientuphudong\\assets\\gamekeo.khunglong.4.1 - Copy\\uploadsmall.png": {
+    "time": 1655889806357.4385,
+    "uuid": "b6d59f96-f6de-4ec8-8a34-8538d66b452a",
+    "missing": true
+  },
+  "D:\\dientuphudong\\assets\\Prefab\\Item.prefab": {
+    "time": 1655889806359.432,
+    "uuid": "e0c6b70a-4943-40eb-814f-e3b0cf2a351b",
+    "missing": false
+  },
+  "D:\\dientuphudong\\assets\\Scripts\\Gamemanager.ts": {
+    "time": 1655889806360.4294,
+    "uuid": "8a173564-f174-4d82-aeac-f5abf8a022be",
+    "missing": false
+  },
+  "D:\\dientuphudong\\assets\\Scripts\\Item.ts": {
+    "time": 1655889806361.4258,
+    "uuid": "4ed5a2fc-84c3-4922-9a6f-703fec2d00f0",
+    "missing": false
+  },
+  "D:\\dientuphudong\\assets\\Scripts\\JsonData.ts": {
+    "time": 1655889806362.4229,
+    "uuid": "26b55531-9184-429a-9095-d92e17482d64",
+    "missing": false
+  },
+  "D:\\dientuphudong\\assets\\Scripts\\move.ts": {
+    "time": 1655889806363.4192,
+    "uuid": "8e71542a-f124-493b-95f8-398cf9d52e6c",
+    "missing": false
+  },
+  "D:\\dientuphudong\\assets\\font.meta": {
+    "time": 1655889805893.989
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export.meta": {
+    "time": 1655889805894.986
+  },
+  "D:\\dientuphudong\\assets\\gamekeo.khunglong.4.1 - Copy.meta": {
+    "time": 1655889805895.9827
+  },
+  "D:\\dientuphudong\\assets\\Prefab.meta": {
+    "time": 1655889805896.9795
+  },
+  "D:\\dientuphudong\\assets\\Scripts.meta": {
+    "time": 1655889805898.9734
+  },
+  "D:\\dientuphudong\\assets\\scene.scene.meta": {
+    "time": 1655889805897.9763
+  },
+  "D:\\dientuphudong\\assets\\font\\ERASBD_0.TTF.meta": {
+    "time": 1655889805911.929
+  },
+  "D:\\dientuphudong\\assets\\font\\Myriad Pro Bold.ttf.meta": {
+    "time": 1655889805912.9255
+  },
+  "D:\\dientuphudong\\assets\\font\\PaytoneOne-Regular.ttf.meta": {
+    "time": 1655889805914.9202
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\bg_q_vien.png.meta": {
+    "time": 1655889806015.5828
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\bg_popup_help_text.png.meta": {
+    "time": 1655889805963.7563
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\bg_popup_help.png.meta": {
+    "time": 1655889805940.833
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\bg_q.png.meta": {
+    "time": 1655889805988.6726
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\bg_q_text.png.meta": {
+    "time": 1655889806014.586
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\btn_answer.png.meta": {
+    "time": 1655889806041.4958
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\btn_answer2.png.meta": {
+    "time": 1655889806064.4182
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\btn_answer_chon.png.meta": {
+    "time": 1655889806090.3318
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\btn_answer_chon_text.png.meta": {
+    "time": 1655889806120.234
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\btn_back.png.meta": {
+    "time": 1655889806144.1526
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\btn_circle_big.png.meta": {
+    "time": 1655889806171.0627
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\Game chon HCN.png.meta": {
+    "time": 1655889806250.7952
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\btn_circle_small.png.meta": {
+    "time": 1655889806196.9756
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\Group 349.png.meta": {
+    "time": 1655889806251.792
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\btn_next.png.meta": {
+    "time": 1655889806246.8088
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\btn_help.png.meta": {
+    "time": 1655889806222.889
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\Group 351.png.meta": {
+    "time": 1655889806253.7856
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\Group 352.png.meta": {
+    "time": 1655889806254.782
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\Group2da.png.meta": {
+    "time": 1655889806256.7761
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\ico_close_big 3.png.meta": {
+    "time": 1655889806257.7722
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\Untitled-1 1.png.meta": {
+    "time": 1655889806335.5117
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\Untitled-1da1.png.meta": {
+    "time": 1655889806336.51
+  },
+  "D:\\dientuphudong\\assets\\gamekeo.khunglong.4.1 - Copy\\bg_answer.png.meta": {
+    "time": 1655889806337.5051
+  },
+  "D:\\dientuphudong\\assets\\gamekeo.khunglong.4.1 - Copy\\bg_answer1.png.meta": {
+    "time": 1655889806338.5017
+  },
+  "D:\\dientuphudong\\assets\\gamekeo.khunglong.4.1 - Copy\\bg_answer2.png.meta": {
+    "time": 1655889806339.4985
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\ico_nopbai.png.meta": {
+    "time": 1655889806281.6921
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\ico_time.png.meta": {
+    "time": 1655889806307.6055
+  },
+  "D:\\dientuphudong\\assets\\gamekeo.khunglong.4.1 - Copy\\bg_answer4.png.meta": {
+    "time": 1655889806340.4958
+  },
+  "D:\\dientuphudong\\assets\\gamechon.HCN.export\\ico_x.png.meta": {
+    "time": 1655889806334.517
+  },
+  "D:\\dientuphudong\\assets\\gamekeo.khunglong.4.1 - Copy\\bg_popup_help.png.meta": {
+    "time": 1655889806344.4824
+  },
+  "D:\\dientuphudong\\assets\\gamekeo.khunglong.4.1 - Copy\\bg_popup_help_text.png.meta": {
+    "time": 1655889806345.4785
+  },
+  "D:\\dientuphudong\\assets\\gamekeo.khunglong.4.1 - Copy\\bg_Khunglong.png.meta": {
+    "time": 1655889806343.4858
+  },
+  "D:\\dientuphudong\\assets\\gamekeo.khunglong.4.1 - Copy\\bg_q.png.meta": {
+    "time": 1655889806346.476
+  },
+  "D:\\dientuphudong\\assets\\gamekeo.khunglong.4.1 - Copy\\demotext.png.meta": {
+    "time": 1655889806350.4617
+  },
+  "D:\\dientuphudong\\assets\\gamekeo.khunglong.4.1 - Copy\\text_quest.png.meta": {
+    "time": 1655889806355.4453
+  },
+  "D:\\dientuphudong\\assets\\gamekeo.khunglong.4.1 - Copy\\bg_q1.png.meta": {
+    "time": 1655889806349.4658
+  },
+  "D:\\dientuphudong\\assets\\gamekeo.khunglong.4.1 - Copy\\upload.png.meta": {
+    "time": 1655889806356.442
+  },
+  "D:\\dientuphudong\\assets\\Scripts\\Gamemanager.ts.meta": {
+    "time": 1655889806360.4294
+  },
+  "D:\\dientuphudong\\assets\\Scripts\\Item.ts.meta": {
+    "time": 1655889806362.4229
+  },
+  "D:\\dientuphudong\\assets\\Scripts\\JsonData.ts.meta": {
+    "time": 1655889806363.4192
+  },
+  "D:\\dientuphudong\\assets\\Scripts\\move.ts.meta": {
+    "time": 1655889806364.4163
+  },
+  "D:\\dientuphudong\\assets\\Prefab\\Item.prefab.meta": {
+    "time": 1655889806359.432
+  },
+  "D:\\dientuphudong\\assets\\gamekeo.khunglong.4.1 - Copy\\uploadsmall.png.meta": {
+    "time": 1655889806357.4385
+  },
+  "D:\\dientuphudong\\assets\\gamekeo.khunglong.4.1 - Copy\\gamekeo-Khung Long-4-1.png.meta": {
+    "time": 1655889806355.4453
+  },
+  "D:\\CMS\\TextCMS\\assets\\font": {
+    "time": 1655957814576.5513,
+    "uuid": "aa4da401-6572-4d7c-b968-2cb089cd4854",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export": {
+    "time": 1655957814572.3357,
+    "uuid": "12a25a6b-28e6-4701-bc89-b6a113c767e7",
+    "missing": true
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamekeo.khunglong.4.1 - Copy": {
+    "time": 1655957814439.059,
+    "uuid": "695808a0-5414-44f0-b1d6-69176b0babfd",
+    "missing": true
+  },
+  "D:\\CMS\\TextCMS\\assets\\Prefab": {
+    "time": 1656065263345.6348,
+    "uuid": "4b3b7f43-5608-4fbe-9f33-5e8abb08d15a",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\scene.scene": {
+    "time": 1656067803917.773,
+    "uuid": "56033f84-bba0-4fd0-8fbb-2c80b2f873c5",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\Scripts": {
+    "time": 1655976431946.5005,
+    "uuid": "601b3650-3445-41cb-bf3b-fbff14071fe2",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\font\\ERASBD_0.TTF": {
+    "time": 1655895327500.5876,
+    "uuid": "156cb313-4942-457d-be78-d971e6ea8e0f",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\font\\Myriad Pro Bold.ttf": {
+    "time": 1655895327502.5803,
+    "uuid": "ed26de12-b5a8-4c33-9abc-8952c961f75d",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\font\\PaytoneOne-Regular.ttf": {
+    "time": 1655895327504.5742,
+    "uuid": "0a26ed82-4e6a-4e27-bc07-0d1e40637f1a",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\bg_popup_help.png": {
+    "time": 1655895327548.427,
+    "uuid": "e93b816d-775e-4be5-af05-c3f577698129",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\bg_popup_help_text.png": {
+    "time": 1655895327594.2732,
+    "uuid": "9ed1caa2-cfc8-4a92-9356-875e80108abe",
+    "missing": true
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\bg_q.png": {
+    "time": 1655895327640.1206,
+    "uuid": "0250cfd9-8c65-4856-be01-b6b28940d863",
+    "missing": true
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\bg_q_text.png": {
+    "time": 1655895327685.967,
+    "uuid": "2aca6ce7-9143-4a7d-84d2-d974c4eb4cc0",
+    "missing": true
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\bg_q_vien.png": {
+    "time": 1655895327686.9639,
+    "uuid": "aead32fe-0094-4a22-a591-95beb2e7c3f1",
+    "missing": true
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\btn_answer.png": {
+    "time": 1655895327730.8162,
+    "uuid": "4ce2a2f9-eb50-4c14-a987-98c7f822005b",
+    "missing": true
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\btn_answer2.png": {
+    "time": 1655895327775.6667,
+    "uuid": "5560fe63-0211-44e5-aa20-0bd7759a1166",
+    "missing": true
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\btn_answer_chon.png": {
+    "time": 1655895327821.5125,
+    "uuid": "f3c4e6b5-9409-4865-8d5b-e64d76322704",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\btn_answer_chon_text.png": {
+    "time": 1655895327867.3599,
+    "uuid": "b88df05d-3a49-4b19-8073-71122bd2dfe5",
+    "missing": true
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\btn_back.png": {
+    "time": 1655895327910.2168,
+    "uuid": "e0b927c0-6e2d-42b4-a0b8-33c6b4c581aa",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\btn_circle_big.png": {
+    "time": 1655895327956.0625,
+    "uuid": "f2a54101-8741-46df-8b8b-66f1a877d72f",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\btn_circle_small.png": {
+    "time": 1655895328001.9102,
+    "uuid": "01e8c953-ac7d-4cc5-b22e-046d0650cb04",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\btn_help.png": {
+    "time": 1655895328044.7656,
+    "uuid": "2608ef44-c255-43a4-98d5-bc7f7c2ca731",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\btn_next.png": {
+    "time": 1655895328090.6123,
+    "uuid": "6c5cec2e-5c84-4227-b8d5-121d404bba7f",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\Game chon HCN.png": {
+    "time": 1655895328096.5923,
+    "uuid": "09bf1e68-099c-4c74-88a0-c6dd7a40979b",
+    "missing": true
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\Group 349.png": {
+    "time": 1655895328098.5867,
+    "uuid": "e514fc58-24b5-4eb3-ae04-548039910f5f",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\Group 351.png": {
+    "time": 1655895328099.5825,
+    "uuid": "742de80e-4e26-4dbd-a069-62639005ef1a",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\Group 352.png": {
+    "time": 1655895328101.577,
+    "uuid": "35e25091-db79-43ba-ac25-597e115615e7",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\Group2da.png": {
+    "time": 1655895328102.5735,
+    "uuid": "34c0002a-5998-4bde-94ad-576e374ef9e4",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\ico_close_big 3.png": {
+    "time": 1655895328103.57,
+    "uuid": "643c55e9-6dc0-4a60-8ebc-15538b843463",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\ico_nopbai.png": {
+    "time": 1655895328149.4155,
+    "uuid": "0e23baa1-280e-44c4-a6a4-d5c534090209",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\ico_time.png": {
+    "time": 1655895328195.263,
+    "uuid": "92d78f39-a2ee-4dca-88f1-8b6e9d5220e4",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\ico_x.png": {
+    "time": 1655895328238.1187,
+    "uuid": "cf5a1c5e-7cb8-4cf2-9ddf-ef42bb8394e3",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\Untitled-1 1.png": {
+    "time": 1655895328240.112,
+    "uuid": "a24e901d-fdea-44ff-b7a2-aef2abd7f5ad",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\Untitled-1da1.png": {
+    "time": 1655895328242.1055,
+    "uuid": "e1a0b739-b759-4a36-83e8-98984d1eca40",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamekeo.khunglong.4.1 - Copy\\bg_answer.png": {
+    "time": 1655895328245.0957,
+    "uuid": "54bf7772-126a-4c92-821e-a60bebe8aea3",
+    "missing": true
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamekeo.khunglong.4.1 - Copy\\bg_answer1.png": {
+    "time": 1655895328246.0933,
+    "uuid": "42574d4a-cf9b-4796-a3c5-b747d5f0d130",
+    "missing": true
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamekeo.khunglong.4.1 - Copy\\bg_answer2.png": {
+    "time": 1655895328248.0857,
+    "uuid": "94b71f54-97fb-43bc-a284-3851ded3c7d7",
+    "missing": true
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamekeo.khunglong.4.1 - Copy\\bg_answer4.png": {
+    "time": 1655895328249.0833,
+    "uuid": "94251a4e-d882-4058-8803-b09ef4bc5c6b",
+    "missing": true
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamekeo.khunglong.4.1 - Copy\\bg_Khunglong.png": {
+    "time": 1655895328252.072,
+    "uuid": "52d2212b-5774-4345-b4d9-8309a01dbabf",
+    "missing": true
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamekeo.khunglong.4.1 - Copy\\bg_popup_help.png": {
+    "time": 1655895328253.07,
+    "uuid": "85abf2fe-4302-4529-ae59-1c64e18160bd",
+    "missing": true
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamekeo.khunglong.4.1 - Copy\\bg_popup_help_text.png": {
+    "time": 1655895328254.0657,
+    "uuid": "d2576c92-79da-4f18-8509-949b2c0ef467",
+    "missing": true
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamekeo.khunglong.4.1 - Copy\\bg_q.png": {
+    "time": 1655895328256.059,
+    "uuid": "48e2e7e9-0c67-4fc4-9568-a639fa9f83e1",
+    "missing": true
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamekeo.khunglong.4.1 - Copy\\bg_q1.png": {
+    "time": 1655895328259.0496,
+    "uuid": "86d8e6d9-fd1d-4b7e-b0e6-e435c1df9eb2",
+    "missing": true
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamekeo.khunglong.4.1 - Copy\\demotext.png": {
+    "time": 1655895328261.0435,
+    "uuid": "f1318143-f5be-478a-912a-d7edf73e3369",
+    "missing": true
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamekeo.khunglong.4.1 - Copy\\gamekeo-Khung Long-4-1.png": {
+    "time": 1655895328267.0227,
+    "uuid": "a9f247bd-09cf-4d07-854d-0ad827b01f4f",
+    "missing": true
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamekeo.khunglong.4.1 - Copy\\text_quest.png": {
+    "time": 1655895328268.0188,
+    "uuid": "c793ccfa-0253-49b9-b2e8-874b39ebe464",
+    "missing": true
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamekeo.khunglong.4.1 - Copy\\upload.png": {
+    "time": 1655895328270.0127,
+    "uuid": "fa722d26-586a-40ea-b7d7-439e936bd402",
+    "missing": true
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamekeo.khunglong.4.1 - Copy\\uploadsmall.png": {
+    "time": 1655895328271.0103,
+    "uuid": "b6d59f96-f6de-4ec8-8a34-8538d66b452a",
+    "missing": true
+  },
+  "D:\\CMS\\TextCMS\\assets\\Prefab\\Item.prefab": {
+    "time": 1655972048999.568,
+    "uuid": "e0c6b70a-4943-40eb-814f-e3b0cf2a351b",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\Scripts\\Gamemanager.ts": {
+    "time": 1656066456608.645,
+    "uuid": "8a173564-f174-4d82-aeac-f5abf8a022be",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\Scripts\\Item.ts": {
+    "time": 1656039247717.9714,
+    "uuid": "4ed5a2fc-84c3-4922-9a6f-703fec2d00f0",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\Scripts\\JsonData.ts": {
+    "time": 1655895328310.8767,
+    "uuid": "26b55531-9184-429a-9095-d92e17482d64",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\Scripts\\move.ts": {
+    "time": 1655895328312.4827,
+    "uuid": "8e71542a-f124-493b-95f8-398cf9d52e6c",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\font.meta": {
+    "time": 1655895327479.657
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export.meta": {
+    "time": 1655895327480.6536
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamekeo.khunglong.4.1 - Copy.meta": {
+    "time": 1655895327481.6501
+  },
+  "D:\\CMS\\TextCMS\\assets\\Prefab.meta": {
+    "time": 1655895327482.6472
+  },
+  "D:\\CMS\\TextCMS\\assets\\Scripts.meta": {
+    "time": 1655895327484.6401
+  },
+  "D:\\CMS\\TextCMS\\assets\\scene.scene.meta": {
+    "time": 1655895327484.6401
+  },
+  "D:\\CMS\\TextCMS\\assets\\font\\PaytoneOne-Regular.ttf.meta": {
+    "time": 1655895327505.5708
+  },
+  "D:\\CMS\\TextCMS\\assets\\font\\ERASBD_0.TTF.meta": {
+    "time": 1655895327501.5842
+  },
+  "D:\\CMS\\TextCMS\\assets\\font\\Myriad Pro Bold.ttf.meta": {
+    "time": 1655895327503.5789
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\bg_q_vien.png.meta": {
+    "time": 1655895327687.9597
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\bg_popup_help_text.png.meta": {
+    "time": 1655895327595.2705
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\bg_popup_help.png.meta": {
+    "time": 1655895327549.423
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\bg_q.png.meta": {
+    "time": 1655895327641.1162
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\bg_q_text.png.meta": {
+    "time": 1655895327686.9639
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\btn_answer.png.meta": {
+    "time": 1655895327730.8162
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\btn_answer2.png.meta": {
+    "time": 1655895327776.6636
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\btn_answer_chon_text.png.meta": {
+    "time": 1655895327868.357
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\btn_answer_chon.png.meta": {
+    "time": 1655895327822.5105
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\btn_back.png.meta": {
+    "time": 1655895327911.213
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\Game chon HCN.png.meta": {
+    "time": 1655895328097.589
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\btn_circle_big.png.meta": {
+    "time": 1655895327957.0603
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\btn_circle_small.png.meta": {
+    "time": 1655895328002.9067
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\btn_help.png.meta": {
+    "time": 1655895328045.7627
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\Group 352.png.meta": {
+    "time": 1655895328101.577
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\Group 349.png.meta": {
+    "time": 1655895328099.5825
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\Group2da.png.meta": {
+    "time": 1655895328103.57
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\btn_next.png.meta": {
+    "time": 1655895328091.6099
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\Group 351.png.meta": {
+    "time": 1655895328100.579
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\ico_close_big 3.png.meta": {
+    "time": 1655895328104.5671
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\Untitled-1 1.png.meta": {
+    "time": 1655895328241.1086
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\Untitled-1da1.png.meta": {
+    "time": 1655895328244.0994
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamekeo.khunglong.4.1 - Copy\\bg_answer.png.meta": {
+    "time": 1655895328246.0933
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamekeo.khunglong.4.1 - Copy\\bg_answer1.png.meta": {
+    "time": 1655895328247.09
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamekeo.khunglong.4.1 - Copy\\bg_answer2.png.meta": {
+    "time": 1655895328248.0857
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamekeo.khunglong.4.1 - Copy\\bg_answer4.png.meta": {
+    "time": 1655895328250.0798
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\ico_nopbai.png.meta": {
+    "time": 1655895328149.4155
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\ico_time.png.meta": {
+    "time": 1655895328196.26
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamechon.HCN.export\\ico_x.png.meta": {
+    "time": 1655895328239.1155
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamekeo.khunglong.4.1 - Copy\\bg_popup_help.png.meta": {
+    "time": 1655895328254.0657
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamekeo.khunglong.4.1 - Copy\\bg_Khunglong.png.meta": {
+    "time": 1655895328253.07
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamekeo.khunglong.4.1 - Copy\\bg_popup_help_text.png.meta": {
+    "time": 1655895328255.0625
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamekeo.khunglong.4.1 - Copy\\bg_q.png.meta": {
+    "time": 1655895328257.057
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamekeo.khunglong.4.1 - Copy\\bg_q1.png.meta": {
+    "time": 1655895328260.047
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamekeo.khunglong.4.1 - Copy\\demotext.png.meta": {
+    "time": 1655895328262.0388
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamekeo.khunglong.4.1 - Copy\\text_quest.png.meta": {
+    "time": 1655895328269.0164
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamekeo.khunglong.4.1 - Copy\\upload.png.meta": {
+    "time": 1655895328270.0127
+  },
+  "D:\\CMS\\TextCMS\\assets\\Prefab\\Item.prefab.meta": {
+    "time": 1655895328307.8865
+  },
+  "D:\\CMS\\TextCMS\\assets\\Scripts\\Gamemanager.ts.meta": {
+    "time": 1655895328308.882
+  },
+  "D:\\CMS\\TextCMS\\assets\\Scripts\\Item.ts.meta": {
+    "time": 1655895328309.8794
+  },
+  "D:\\CMS\\TextCMS\\assets\\Scripts\\JsonData.ts.meta": {
+    "time": 1655895328311.8723
+  },
+  "D:\\CMS\\TextCMS\\assets\\Scripts\\move.ts.meta": {
+    "time": 1655895328312.4827
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamekeo.khunglong.4.1 - Copy\\uploadsmall.png.meta": {
+    "time": 1655895328272.0056
+  },
+  "D:\\CMS\\TextCMS\\assets\\gamekeo.khunglong.4.1 - Copy\\gamekeo-Khung Long-4-1.png.meta": {
+    "time": 1655895328268.0188
+  },
+  "D:\\CMS\\TextCMS\\assets\\gametext.meta": {
+    "time": 1655895327481.6501
+  },
+  "D:\\CMS\\TextCMS\\assets\\gametext\\Bg 1.png.meta": {
+    "time": 1655895328275.9937
+  },
+  "D:\\CMS\\TextCMS\\assets\\gametext\\button do 1.png.meta": {
+    "time": 1655895328286.9558
+  },
+  "D:\\CMS\\TextCMS\\assets\\gametext\\ico_close_big 3.png.meta": {
+    "time": 1655895328295.9265
+  },
+  "D:\\CMS\\TextCMS\\assets\\gametext\\v. . . trăng sáng vằng vặc.png.meta": {
+    "time": 1655895328301.9065
+  },
+  "D:\\CMS\\TextCMS\\assets\\gametext\\Vector Smart Object-1 2.png.meta": {
+    "time": 1655895328303.8997
+  },
+  "D:\\CMS\\TextCMS\\assets\\gametext": {
+    "time": 1655976366116.8042,
+    "uuid": "99af44bd-8ce5-46dc-97c2-df26442b7fb3",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gametext\\button do 1.png": {
+    "time": 1655895328285.9604,
+    "uuid": "353cc0f7-de99-4198-be2d-e8ee1a7f2928",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gametext\\ico_close_big 3.png": {
+    "time": 1655895328294.9302,
+    "uuid": "7c046c6b-596b-4f94-88d9-4c94bd99112d",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gametext\\Bg 1.png": {
+    "time": 1655895328275.9937,
+    "uuid": "b59161a1-ad47-4f17-9912-c806fc05efe3",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gametext\\v. . . trăng sáng vằng vặc.png": {
+    "time": 1655895328300.9097,
+    "uuid": "c06bd277-f39d-45f3-8483-19f4692928cd",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gametext\\Vector Smart Object-1 2.png": {
+    "time": 1655895328303.8997,
+    "uuid": "925f00a5-653f-48dd-8690-a6e5f1570622",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gametext\\button do 1 - Copy.png.meta": {
+    "time": 1655895328285.9604
+  },
+  "D:\\CMS\\TextCMS\\assets\\gametext\\button do 2.png.meta": {
+    "time": 1655895328287.9521
+  },
+  "D:\\CMS\\TextCMS\\assets\\gametext\\button do 2.png": {
+    "time": 1655895328287.9521,
+    "uuid": "24711e60-f9af-4d2b-aff0-d7693357b343",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gametext\\button do 1 - Copy.png": {
+    "time": 1655895328284.9624,
+    "uuid": "0472aff4-643f-40f7-9f5f-d90dce3e0064",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung": {
+    "time": 1655976265286.7002,
+    "uuid": "bd335369-96b0-4b9b-85ce-d36d0e8e414f",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung\\bg_popup_help.png": {
+    "time": 1655895327548.427,
+    "uuid": "e93b816d-775e-4be5-af05-c3f577698129",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung\\btn_answer_chon.png": {
+    "time": 1655895327821.5125,
+    "uuid": "f3c4e6b5-9409-4865-8d5b-e64d76322704",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung\\btn_circle_big.png": {
+    "time": 1655895327956.0625,
+    "uuid": "f2a54101-8741-46df-8b8b-66f1a877d72f",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung\\btn_circle_small.png": {
+    "time": 1655895328001.9102,
+    "uuid": "01e8c953-ac7d-4cc5-b22e-046d0650cb04",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung\\btn_help.png": {
+    "time": 1655895328044.7656,
+    "uuid": "2608ef44-c255-43a4-98d5-bc7f7c2ca731",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung\\btn_next.png": {
+    "time": 1655895328090.6123,
+    "uuid": "6c5cec2e-5c84-4227-b8d5-121d404bba7f",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung\\Group 349.png": {
+    "time": 1655895328098.5867,
+    "uuid": "e514fc58-24b5-4eb3-ae04-548039910f5f",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung\\Group 351.png": {
+    "time": 1655895328099.5825,
+    "uuid": "742de80e-4e26-4dbd-a069-62639005ef1a",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung\\Group 352.png": {
+    "time": 1655895328101.577,
+    "uuid": "35e25091-db79-43ba-ac25-597e115615e7",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung\\Group2da.png": {
+    "time": 1655895328102.5735,
+    "uuid": "34c0002a-5998-4bde-94ad-576e374ef9e4",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung\\ico_close_big 3.png": {
+    "time": 1655895328103.57,
+    "uuid": "643c55e9-6dc0-4a60-8ebc-15538b843463",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung\\ico_nopbai.png": {
+    "time": 1655895328149.4155,
+    "uuid": "0e23baa1-280e-44c4-a6a4-d5c534090209",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung\\ico_time.png": {
+    "time": 1655895328195.263,
+    "uuid": "92d78f39-a2ee-4dca-88f1-8b6e9d5220e4",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung\\ico_x.png": {
+    "time": 1655895328238.1187,
+    "uuid": "cf5a1c5e-7cb8-4cf2-9ddf-ef42bb8394e3",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung\\Untitled-1 1.png": {
+    "time": 1655895328240.112,
+    "uuid": "a24e901d-fdea-44ff-b7a2-aef2abd7f5ad",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung\\Untitled-1da1.png": {
+    "time": 1655895328242.1055,
+    "uuid": "e1a0b739-b759-4a36-83e8-98984d1eca40",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung\\upload.png": {
+    "time": 1655895328270.0127,
+    "uuid": "d68df84e-4c8e-4f0a-9a2e-25af7efe14ac",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung\\uploadsmall.png": {
+    "time": 1655895328271.0103,
+    "uuid": "eb8437ff-c1d2-4d2a-9ced-b6bdaad4d455",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung.meta": {
+    "time": 1655975039584.8213
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung\\btn_circle_big.png.meta": {
+    "time": 1655895327957.0603
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung\\btn_answer_chon.png.meta": {
+    "time": 1655895327822.5105
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung\\bg_popup_help.png.meta": {
+    "time": 1655895327549.423
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung\\Group 349.png.meta": {
+    "time": 1655895328099.5825
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung\\Group 351.png.meta": {
+    "time": 1655895328100.579
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung\\btn_circle_small.png.meta": {
+    "time": 1655895328002.9067
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung\\Group 352.png.meta": {
+    "time": 1655895328101.577
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung\\Group2da.png.meta": {
+    "time": 1655895328103.57
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung\\ico_close_big 3.png.meta": {
+    "time": 1655895328104.5671
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung\\btn_next.png.meta": {
+    "time": 1655895328091.6099
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung\\btn_help.png.meta": {
+    "time": 1655895328045.7627
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung\\Untitled-1 1.png.meta": {
+    "time": 1655895328241.1086
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung\\Untitled-1da1.png.meta": {
+    "time": 1655895328244.0994
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung\\upload.png.meta": {
+    "time": 1655975040048.7822
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung\\ico_nopbai.png.meta": {
+    "time": 1655895328149.4155
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung\\ico_time.png.meta": {
+    "time": 1655895328196.26
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung\\ico_x.png.meta": {
+    "time": 1655895328239.1155
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung\\uploadsmall.png.meta": {
+    "time": 1655975040067.7183
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung\\btn_back.png.meta": {
+    "time": 1655895327911.213
+  },
+  "D:\\CMS\\TextCMS\\assets\\chung\\btn_back.png": {
+    "time": 1655895327910.2168,
+    "uuid": "e0b927c0-6e2d-42b4-a0b8-33c6b4c581aa",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\Scripts\\ItemShip.ts.meta": {
+    "time": 1655976423633.137
+  },
+  "D:\\CMS\\TextCMS\\assets\\Scripts\\ItemShip.ts": {
+    "time": 1655977052848.5479,
+    "uuid": "c29758ef-bd89-4d9d-b683-a8115f19bff0",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gametextship.meta": {
+    "time": 1655977369371.6646
+  },
+  "D:\\CMS\\TextCMS\\assets\\gametextship\\tau ngam 1.png.meta": {
+    "time": 1655977369462.3613
+  },
+  "D:\\CMS\\TextCMS\\assets\\gametextship\\txtTaungam..png.meta": {
+    "time": 1655977369417.5117
+  },
+  "D:\\CMS\\TextCMS\\assets\\gametextship\\xucxac_bg.png.meta": {
+    "time": 1655977369524.1548
+  },
+  "D:\\CMS\\TextCMS\\assets\\gametextship": {
+    "time": 1655977369369.6748,
+    "uuid": "bd5aff6f-f4e2-4f45-9a03-544f88a72269",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gametextship\\txtTaungam..png": {
+    "time": 1655892382381.5186,
+    "uuid": "45bd278d-33be-4e5c-b520-60404033502c",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gametextship\\tau ngam 1.png": {
+    "time": 1655892382380.5208,
+    "uuid": "1cfbad8a-a4e4-4607-a5ca-83861536e3e0",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gametextship\\xucxac_bg.png": {
+    "time": 1655892382386.5007,
+    "uuid": "d43438d0-b09b-493b-8237-dddffc8b2fc1",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\Prefab\\Item14.prefab.meta": {
+    "time": 1655977846077.0696
+  },
+  "D:\\CMS\\TextCMS\\assets\\Prefab\\Item14.prefab": {
+    "time": 1656037203964.4524,
+    "uuid": "2b14582c-76c4-435f-8884-e9dc939f45c7",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\Game1-4.meta": {
+    "time": 1656036128505.0664
+  },
+  "D:\\CMS\\TextCMS\\assets\\Game1-4\\Ellipse 3269.png.meta": {
+    "time": 1656036128560.2664
+  },
+  "D:\\CMS\\TextCMS\\assets\\Game1-4\\Ellipse 3469.png.meta": {
+    "time": 1656036128555.2817
+  },
+  "D:\\CMS\\TextCMS\\assets\\Game1-4\\Ellipse 3619.png.meta": {
+    "time": 1656036128564.254
+  },
+  "D:\\CMS\\TextCMS\\assets\\Game1-4\\Ellipse 3639.png.meta": {
+    "time": 1656036128571.2288
+  },
+  "D:\\CMS\\TextCMS\\assets\\Game1-4\\Group 3 copy 2 1 (1).png.meta": {
+    "time": 1656036128608.1047
+  },
+  "D:\\CMS\\TextCMS\\assets\\Game1-4\\Group 3 copy 2 1.png.meta": {
+    "time": 1656036128610.0984
+  },
+  "D:\\CMS\\TextCMS\\assets\\Game1-4": {
+    "time": 1656039301498.3901,
+    "uuid": "e51868de-5234-48d9-b602-5e528266ab62",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\Game1-4\\Ellipse 3469.png": {
+    "time": 1654764129315.7063,
+    "uuid": "d99e2d2b-2ea9-4d17-83b2-6b508d1dc186",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\Game1-4\\Ellipse 3269.png": {
+    "time": 1654764079151.2434,
+    "uuid": "508ea054-34ca-47ed-82a4-76e6dc389566",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\Game1-4\\Ellipse 3619.png": {
+    "time": 1654763934747.507,
+    "uuid": "ad512d5b-5c04-464c-baa9-ae39b0223a0b",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\Game1-4\\Ellipse 3639.png": {
+    "time": 1654764100429.5884,
+    "uuid": "d11cc62a-3c05-4426-8ebf-82b2e53cfae8",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\Game1-4\\Group 3 copy 2 1 (1).png": {
+    "time": 1655111954097.7532,
+    "uuid": "c20fdd76-1b9d-4b68-8fb9-91b43df9f2e7",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\Game1-4\\Group 3 copy 2 1.png": {
+    "time": 1654761864481.4631,
+    "uuid": "c146b7cd-f452-4da9-bbf5-793c821f6775",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\Game1-4\\Ellipse 369.png.meta": {
+    "time": 1656036289412.099
+  },
+  "D:\\CMS\\TextCMS\\assets\\Game1-4\\Ellipse 369.png": {
+    "time": 1656036264566.2434,
+    "uuid": "1fa92343-5f27-4b1d-a5f7-0b5abb459cf4",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\Prefab\\Item14Sound.prefab.meta": {
+    "time": 1656037264769.1438
+  },
+  "D:\\CMS\\TextCMS\\assets\\Prefab\\Item14Sound.prefab": {
+    "time": 1656038186470.9705,
+    "uuid": "ebb92290-ee41-40a5-b360-3e9654adf412",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\Game1-4\\answer.png.meta": {
+    "time": 1656037571535.5833
+  },
+  "D:\\CMS\\TextCMS\\assets\\Game1-4\\answer_active.png.meta": {
+    "time": 1656037571539.57
+  },
+  "D:\\CMS\\TextCMS\\assets\\Game1-4\\answer.png": {
+    "time": 1655892382339.6575,
+    "uuid": "c3166759-e3cb-4e01-8bd3-97b94de29df7",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\Game1-4\\answer_active.png": {
+    "time": 1655892382340.6543,
+    "uuid": "9e34bc6c-c786-4325-989c-1b592fd3397e",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\Game1-4\\bg 4.png.meta": {
+    "time": 1656039301575.1277
+  },
+  "D:\\CMS\\TextCMS\\assets\\Game1-4\\bg 4.png": {
+    "time": 1655111346628.964,
+    "uuid": "cf196fd1-2f82-49ad-b9b7-5aa639602eb7",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\Prefab\\ItemShipMath.prefab.meta": {
+    "time": 1656040224957.2922
+  },
+  "D:\\CMS\\TextCMS\\assets\\Prefab\\ItemShipMath.prefab": {
+    "time": 1656058673087.6006,
+    "uuid": "27e85897-8669-4e3b-a056-0b8c629137dd",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gameMathShip.meta": {
+    "time": 1656041940414.2942
+  },
+  "D:\\CMS\\TextCMS\\assets\\gameMathShip\\o chu nhat 4.png.meta": {
+    "time": 1656041940470.107
+  },
+  "D:\\CMS\\TextCMS\\assets\\gameMathShip\\Vector Smart Object copy 8 2.png.meta": {
+    "time": 1656041940475.0913
+  },
+  "D:\\CMS\\TextCMS\\assets\\gameMathShip\\Vector Smart Object.png.meta": {
+    "time": 1656041940493.03
+  },
+  "D:\\CMS\\TextCMS\\assets\\gameMathShip\\Vector Smart Object2 1.png.meta": {
+    "time": 1656041940472.1006
+  },
+  "D:\\CMS\\TextCMS\\assets\\gameMathShip": {
+    "time": 1656041940411.3035,
+    "uuid": "eb6e8a4a-a38e-4ce9-9f77-61aeaf05ab57",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gameMathShip\\o chu nhat 4.png": {
+    "time": 1656040826355.2283,
+    "uuid": "0975b6b0-f2d9-4996-9083-5ffff30afdb2",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gameMathShip\\Vector Smart Object2 1.png": {
+    "time": 1656040826358.2192,
+    "uuid": "de4beea6-2065-48c9-b86f-e4d7bac742df",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gameMathShip\\Vector Smart Object copy 8 2.png": {
+    "time": 1656040826356.2256,
+    "uuid": "6c6bc2a0-d302-42d9-927c-ab8ecf4f5ee1",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gameMathShip\\Vector Smart Object.png": {
+    "time": 1656040826357.2224,
+    "uuid": "40bd8291-1f1a-418e-836b-0bc64667ccfe",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gameMathDice.meta": {
+    "time": 1656043089863.7607
+  },
+  "D:\\CMS\\TextCMS\\assets\\gameMathDice\\dapan2.png.meta": {
+    "time": 1656043089926.5513
+  },
+  "D:\\CMS\\TextCMS\\assets\\gameMathDice\\filltext.png.meta": {
+    "time": 1656043089941.501
+  },
+  "D:\\CMS\\TextCMS\\assets\\gameMathDice\\khung xuc xac 1.png.meta": {
+    "time": 1656043089944.4917
+  },
+  "D:\\CMS\\TextCMS\\assets\\gameMathDice\\khung xuc xac 2.png.meta": {
+    "time": 1656043089945.489
+  },
+  "D:\\CMS\\TextCMS\\assets\\gameMathDice": {
+    "time": 1656043089860.7703,
+    "uuid": "e799cae9-d559-453c-95ca-13ffa27edb25",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gameMathDice\\dapan2.png": {
+    "time": 1655892382356.6003,
+    "uuid": "9fc3a15a-0107-4096-8b09-abdcb73cf76a",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gameMathDice\\filltext.png": {
+    "time": 1655892382359.59,
+    "uuid": "106a409a-0265-4dc4-96bb-45a021107068",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gameMathDice\\khung xuc xac 1.png": {
+    "time": 1655892382363.5771,
+    "uuid": "aca0bcbd-dcb8-4bc7-91a6-905306066b82",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gameMathDice\\khung xuc xac 2.png": {
+    "time": 1655892382365.571,
+    "uuid": "cd4d64f6-085f-4b30-9aa9-a28feaaf910d",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\Prefab\\ItemDiceMath.prefab.meta": {
+    "time": 1656043110431.5537
+  },
+  "D:\\CMS\\TextCMS\\assets\\Prefab\\ItemDiceMath.prefab": {
+    "time": 1656058710162.1833,
+    "uuid": "81847265-57a4-4bcb-9d76-b60eda3384df",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gameBoard.meta": {
+    "time": 1656058374143.1995
+  },
+  "D:\\CMS\\TextCMS\\assets\\gameBoard\\bg 10.png.meta": {
+    "time": 1656058374234.8948
+  },
+  "D:\\CMS\\TextCMS\\assets\\gameBoard\\dọc 1.png.meta": {
+    "time": 1656058374198.018
+  },
+  "D:\\CMS\\TextCMS\\assets\\gameBoard\\khung 5.png.meta": {
+    "time": 1656058374217.952
+  },
+  "D:\\CMS\\TextCMS\\assets\\gameBoard\\ngang 2.png.meta": {
+    "time": 1656058374199.0154
+  },
+  "D:\\CMS\\TextCMS\\assets\\gameBoard": {
+    "time": 1656058374139.2131,
+    "uuid": "0fcee1a1-9e52-4981-9a68-5b5159e8dc11",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gameBoard\\dọc 1.png": {
+    "time": 1656040826371.1753,
+    "uuid": "518b6938-f061-4d9a-86db-440fde4fac87",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gameBoard\\ngang 2.png": {
+    "time": 1656040826380.146,
+    "uuid": "f11c6530-641e-4a38-b7ac-ee16839f0492",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gameBoard\\khung 5.png": {
+    "time": 1656040826376.159,
+    "uuid": "942b2bc4-92ff-4a45-85ff-16eae39ab860",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\gameBoard\\bg 10.png": {
+    "time": 1656040826363.2024,
+    "uuid": "2dc5a5b3-a32e-40f6-b111-b0273fbea08d",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\Prefab\\ItemMathTable.prefab.meta": {
+    "time": 1656065134003.1
+  },
+  "D:\\CMS\\TextCMS\\assets\\Prefab\\ItemMathTable.prefab": {
+    "time": 1656065380882.902,
+    "uuid": "45f8a5c3-1281-42b2-9008-ea396b9891bb",
+    "missing": false
+  },
+  "D:\\CMS\\TextCMS\\assets\\Prefab\\ItemShip.prefab.meta": {
+    "time": 1656065263350.59
+  },
+  "D:\\CMS\\TextCMS\\assets\\Prefab\\ItemShip.prefab": {
+    "time": 1656065361478.6682,
+    "uuid": "70eedb5c-1728-452e-a34b-478a5223d09f",
+    "missing": false
+  }
+}

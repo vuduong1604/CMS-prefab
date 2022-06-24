@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "v. . . trăng sáng vằng vặc",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 916,
+      "height": 315
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 916,
+      "height": 315
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "c06bd277-f39d-45f3-8483-19f4692928cd@6c48a",
+    "packable": true
+  }
+}
