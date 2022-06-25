@@ -44,9 +44,17 @@ export class Gamemanager extends Component {
   @property(SpriteFrame)
   enableSoundSprite: SpriteFrame = null;
 
+  @property(Node)
+  node1: Node = null
+
+  @property(Node)
+  node2: Node = null
+
 
   i = 0;
   maxpage = 10;
+
+  id = 0
 
   baseUrlfile = "https://ctm-cms.myg.vn";
 
@@ -126,6 +134,24 @@ export class Gamemanager extends Component {
       this.Noti("Bạn không thể tạo thêm nữa!!!");
     }
 
+  }
+
+
+  public test() {
+    this.id = 1;
+    this.AddItem();
+  }
+  public test2() {
+    this.id = 2;
+    this.AddItem1();
+  }
+
+  public add(){
+    if(this.id == 1){
+      this.AddItem();
+    }else if(this.id == 2){
+      this.AddItem1();
+    }
   }
 
   public AddItem1() {
@@ -323,7 +349,7 @@ export class Gamemanager extends Component {
         false
       );
     }
-    
+
   }
 
   xoaamthanh() {
@@ -378,12 +404,12 @@ export class Gamemanager extends Component {
       listitemdata.push(element.getComponent(Item).item);
     });
 
-    if(listitemdata == null || listitemdata.length == 0){
-this.Noti("Tối thiểu 1 câu.")
+    if (listitemdata == null || listitemdata.length == 0) {
+      this.Noti("Tối thiểu 1 câu.")
     }
-    else{
+    else {
       console.log(JSON.stringify(listitemdata));
-    window.top.receiveData(JSON.stringify(listitemdata));
+      window.top.receiveData(JSON.stringify(listitemdata));
     }
   }
 }

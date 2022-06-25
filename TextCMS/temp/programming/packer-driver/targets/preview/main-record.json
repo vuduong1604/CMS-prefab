@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 9395.251500000013,
+      "mTimestamp": 6234.915600001812,
       "chunkId": "909f786ffe128f06f5aa1b4e1e3fbbd65262915e",
       "imports": [
         {
@@ -409,11 +409,11 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 25661654.052,
+      "mTimestamp": 3991150.6308000013,
       "chunkId": "52e8a9e14f500a509b526e3a9f1d96810f76ca10",
       "imports": [
         {
-          "value": "file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts",
+          "value": "file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts",
           "resolved": "__unresolved_0",
           "loc": {
             "start": {
@@ -422,12 +422,12 @@
             },
             "end": {
               "line": 4,
-              "column": 61
+              "column": 81
             }
           }
         },
         {
-          "value": "file:///D:/CMS/TextCMS/assets/Scripts/Item.ts",
+          "value": "file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts",
           "resolved": "__unresolved_1",
           "loc": {
             "start": {
@@ -436,12 +436,12 @@
             },
             "end": {
               "line": 5,
-              "column": 54
+              "column": 74
             }
           }
         },
         {
-          "value": "file:///D:/CMS/TextCMS/assets/Scripts/ItemShip.ts",
+          "value": "file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts",
           "resolved": "__unresolved_2",
           "loc": {
             "start": {
@@ -450,12 +450,12 @@
             },
             "end": {
               "line": 6,
-              "column": 58
+              "column": 78
             }
           }
         },
         {
-          "value": "file:///D:/CMS/TextCMS/assets/Scripts/JsonData.ts",
+          "value": "file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts",
           "resolved": "__unresolved_3",
           "loc": {
             "start": {
@@ -464,12 +464,12 @@
             },
             "end": {
               "line": 7,
-              "column": 58
+              "column": 78
             }
           }
         },
         {
-          "value": "file:///D:/CMS/TextCMS/assets/Scripts/move.ts",
+          "value": "file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts",
           "resolved": "__unresolved_4",
           "loc": {
             "start": {
@@ -478,7 +478,7 @@
             },
             "end": {
               "line": 8,
-              "column": 54
+              "column": 74
             }
           }
         }
@@ -488,35 +488,35 @@
         {
           "resolved": {
             "type": "module",
-            "url": "file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts"
+            "url": "file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///D:/CMS/TextCMS/assets/Scripts/Item.ts"
+            "url": "file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///D:/CMS/TextCMS/assets/Scripts/ItemShip.ts"
+            "url": "file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///D:/CMS/TextCMS/assets/Scripts/JsonData.ts"
+            "url": "file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///D:/CMS/TextCMS/assets/Scripts/move.ts"
+            "url": "file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts"
           },
           "messages": []
         }
@@ -597,7 +597,7 @@
       ]
     },
     "cce:/internal/code-quality/cr.mjs": {
-      "mTimestamp": 1656040903155,
+      "mTimestamp": 1656143036702,
       "chunkId": "3a1fd7b13056478820ebedd306d3446d1aa408cc",
       "imports": [],
       "type": "esm",
@@ -1327,6 +1327,397 @@
           "resolved": {
             "type": "module",
             "url": "file:///D:/CMS/TextCMS/assets/Scripts/move.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts": {
+      "mTimestamp": {
+        "mtime": 1656147027531.3247,
+        "uuid": "8a173564-f174-4d82-aeac-f5abf8a022be"
+      },
+      "chunkId": "15616cd1a787cc7cc99d699a8c29a47e33ed8205",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 13,
+              "column": 7
+            },
+            "end": {
+              "line": 13,
+              "column": 11
+            }
+          }
+        },
+        {
+          "value": "./Item",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 14,
+              "column": 21
+            },
+            "end": {
+              "line": 14,
+              "column": 29
+            }
+          }
+        },
+        {
+          "value": "./ItemShip",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 15,
+              "column": 25
+            },
+            "end": {
+              "line": 15,
+              "column": 37
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts": {
+      "mTimestamp": {
+        "mtime": 1656014046000,
+        "uuid": "4ed5a2fc-84c3-4922-9a6f-703fec2d00f0"
+      },
+      "chunkId": "c051cff9e7fc85e49311625a305716e2ed3a28cb",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 17,
+              "column": 7
+            },
+            "end": {
+              "line": 17,
+              "column": 11
+            }
+          }
+        },
+        {
+          "value": "./Gamemanager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 18,
+              "column": 28
+            },
+            "end": {
+              "line": 18,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "./JsonData",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 20,
+              "column": 24
+            },
+            "end": {
+              "line": 20,
+              "column": 36
+            }
+          }
+        },
+        {
+          "value": "./move",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 21,
+              "column": 21
+            },
+            "end": {
+              "line": 21,
+              "column": 29
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts": {
+      "mTimestamp": {
+        "mtime": 1655870128000,
+        "uuid": "26b55531-9184-429a-9095-d92e17482d64"
+      },
+      "chunkId": "a726316c42a78f8d7e34098c10c7e6a413118934",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts": {
+      "mTimestamp": {
+        "mtime": 1655870128000,
+        "uuid": "8e71542a-f124-493b-95f8-398cf9d52e6c"
+      },
+      "chunkId": "4ea782e6530c3d923269e9100de4f2e247bea0ab",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 69
+            },
+            "end": {
+              "line": 1,
+              "column": 73
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts": {
+      "mTimestamp": {
+        "mtime": 1655951852000,
+        "uuid": "c29758ef-bd89-4d9d-b683-a8115f19bff0"
+      },
+      "chunkId": "dd0ffbfc417af1ce27ac082a03147a34424f66c7",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 17,
+              "column": 7
+            },
+            "end": {
+              "line": 17,
+              "column": 11
+            }
+          }
+        },
+        {
+          "value": "./Gamemanager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 18,
+              "column": 28
+            },
+            "end": {
+              "line": 18,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "./JsonData",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 20,
+              "column": 24
+            },
+            "end": {
+              "line": 20,
+              "column": 36
+            }
+          }
+        },
+        {
+          "value": "./move",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 21,
+              "column": 21
+            },
+            "end": {
+              "line": 21,
+              "column": 29
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts"
           },
           "messages": []
         }

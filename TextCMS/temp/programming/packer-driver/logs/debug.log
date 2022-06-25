@@ -1,23 +1,23 @@
-debug: Fri, 24 Jun 2022 03:21:52 GMT
-debug: Project: D:\CMS\TextCMS
+debug: Sat, 25 Jun 2022 07:44:02 GMT
+debug: Project: C:\Users\VuDuong\Downloads\TextCMS
 debug: Targets: editor,preview
 debug: Incremental file seems great.
-debug: Engine path: D:\Cocos\Cocos 3.5.0\resources\resources\3d\engine
+debug: Engine path: C:\CocosDashboard_1.2.0\resources\.editors\Creator\3.5.0\resources\resources\3d\engine
 debug: Initializing target [Editor]
 debug: Loading cache
-debug: Loading cache costs 41.29749999998603ms.
+debug: Loading cache costs 7.499099999666214ms.
 debug: Engine features shipped in editor: base,gfx-webgl,gfx-webgl2,3d,animation,skeletal-animation,2d,ui,particle,particle-2d,physics-framework,physics-2d-framework,intersection-2d,primitive,profiler,audio,video,terrain,webview,tween,tiled-map,spine,dragon-bones,marionette
 debug: Initializing target [Preview]
 debug: Loading cache
-debug: Loading cache costs 6.004100000020117ms.
+debug: Loading cache costs 9.77980000153184ms.
 debug: Sync engine features: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle-2d,physics-2d-box2d,profiler,skeletal-animation,spine,tiled-map,tween,ui,video,webview
 debug: Pulling asset-db.
-debug: Fetch asset-db cost: 7.648699999961536ms.
+debug: Fetch asset-db cost: 8.532600000500679ms.
 debug: Build iteration starts.
 Number of accumulated asset changes: 5
 Feature changed: false
 debug: Target(editor) build started.
-debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 07:00:08 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 07:00:09 GMT+0700 (Indochina Time)
+debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 08:00:09 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (Indochina Time)
 debug: Inspect cce:/internal/x/cc
 debug: Resolve cce:/internal/x/cc-fu/base from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/base.
 debug: Resolve cce:/internal/x/cc-fu/gfx-webgl from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl.
@@ -42,18 +42,43 @@ debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external d
 debug: Resolve cce:/internal/x/cc-fu/tiled-map from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tiled-map.
 debug: Resolve cce:/internal/x/cc-fu/spine from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/spine.
 debug: Resolve cce:/internal/x/cc-fu/dragon-bones from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/dragon-bones.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 07:00:08 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 07:00:09 GMT+0700 (Indochina Time)
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 15:07:41 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (Indochina Time)
 debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts.
-debug: Detected change: cce:/internal/code-quality/cr.mjs. Last mtime: Fri Jun 24 2022 09:58:59 GMT+0700 (Indochina Time), Current mtime: Fri Jun 24 2022 10:21:43 GMT+0700 (Indochina Time)
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts.
+debug: Inspect file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Detected change: cce:/internal/code-quality/cr.mjs. Last mtime: Fri Jun 24 2022 10:21:43 GMT+0700 (Indochina Time), Current mtime: Sat Jun 25 2022 14:43:56 GMT+0700 (Indochina Time)
 debug: Inspect cce:/internal/code-quality/cr.mjs
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/Item.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/Item.ts.
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/ItemShip.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/ItemShip.ts.
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/JsonData.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/JsonData.ts.
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/move.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/move.ts.
-debug: Target(editor) ends with cost 219.71699999994598ms.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve ./Item from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Inspect file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts as cce:/internal/x/cc.
+debug: Resolve ./Gamemanager from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts.
+debug: Resolve ./JsonData from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts.
+debug: Inspect file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts as cce:/internal/x/cc.
+debug: Resolve ./move from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts.
+debug: Inspect file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts as cce:/internal/x/cc.
+debug: Resolve ./ItemShip from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Inspect file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts as cce:/internal/x/cc.
+debug: Resolve ./Gamemanager from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts.
+debug: Resolve ./JsonData from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts.
+debug: Resolve ./move from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts.
+debug: Target(editor) ends with cost 543.3293999992311ms.
 debug: Target(preview) build started.
-debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 07:00:08 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 07:00:09 GMT+0700 (Indochina Time)
+debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 08:00:09 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (Indochina Time)
 debug: Inspect cce:/internal/x/cc
 debug: Resolve cce:/internal/x/cc-fu/2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/2d.
 debug: Resolve cce:/internal/x/cc-fu/animation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/animation.
@@ -74,155 +99,434 @@ debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external d
 debug: Resolve cce:/internal/x/cc-fu/ui from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/ui.
 debug: Resolve cce:/internal/x/cc-fu/video from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/video.
 debug: Resolve cce:/internal/x/cc-fu/webview from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/webview.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 07:00:08 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 07:00:09 GMT+0700 (Indochina Time)
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 15:07:41 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (Indochina Time)
 debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts.
-debug: Detected change: cce:/internal/code-quality/cr.mjs. Last mtime: Fri Jun 24 2022 09:58:59 GMT+0700 (Indochina Time), Current mtime: Fri Jun 24 2022 10:21:43 GMT+0700 (Indochina Time)
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts.
+debug: Inspect file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Detected change: cce:/internal/code-quality/cr.mjs. Last mtime: Fri Jun 24 2022 10:21:43 GMT+0700 (Indochina Time), Current mtime: Sat Jun 25 2022 14:43:56 GMT+0700 (Indochina Time)
 debug: Inspect cce:/internal/code-quality/cr.mjs
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/Item.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/Item.ts.
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/ItemShip.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/ItemShip.ts.
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/JsonData.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/JsonData.ts.
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/move.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/move.ts.
-debug: Target(preview) ends with cost 89.85519999999087ms.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve ./Item from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Inspect file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts as cce:/internal/x/cc.
+debug: Resolve ./Gamemanager from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts.
+debug: Resolve ./JsonData from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts.
+debug: Inspect file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts as cce:/internal/x/cc.
+debug: Resolve ./move from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts.
+debug: Inspect file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts as cce:/internal/x/cc.
+debug: Resolve ./ItemShip from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Inspect file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts as cce:/internal/x/cc.
+debug: Resolve ./Gamemanager from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts.
+debug: Resolve ./JsonData from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts.
+debug: Resolve ./move from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts.
+debug: Target(preview) ends with cost 327.3252999968827ms.
 debug: Dispatch build request for time accumulated 1 asset changes.
 debug: Build iteration starts.
 Number of accumulated asset changes: 1
 Feature changed: false
 debug: Target(editor) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 07:00:09 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 14:01:10 GMT+0700 (Indochina Time)
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 08:04:01 GMT+0800 (Indochina Time)
 debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts.
-debug: Detected change: file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts. Last mtime: Fri Jun 24 2022 09:50:24 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be, Current mtime: Fri Jun 24 2022 17:22:54 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be
-debug: Inspect file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
-debug: Resolve ./Item from file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts as file:///D:/CMS/TextCMS/assets/Scripts/Item.ts.
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/Item.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/Item.ts.
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/ItemShip.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/ItemShip.ts.
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/JsonData.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/JsonData.ts.
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/move.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/move.ts.
-debug: Target(editor) ends with cost 297.3366000019014ms.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts.
+debug: Detected change: file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts. Last mtime: Fri Jun 24 2022 10:27:36 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be, Current mtime: Sat Jun 25 2022 14:47:57 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be
+debug: Inspect file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve ./Item from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve ./ItemShip from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts.
+debug: Target(editor) ends with cost 148.3421000018716ms.
 debug: Target(preview) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 07:00:09 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 14:01:10 GMT+0700 (Indochina Time)
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 08:04:01 GMT+0800 (Indochina Time)
 debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts.
-debug: Detected change: file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts. Last mtime: Fri Jun 24 2022 09:50:24 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be, Current mtime: Fri Jun 24 2022 17:22:54 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be
-debug: Inspect file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
-debug: Resolve ./Item from file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts as file:///D:/CMS/TextCMS/assets/Scripts/Item.ts.
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/Item.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/Item.ts.
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/ItemShip.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/ItemShip.ts.
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/JsonData.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/JsonData.ts.
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/move.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/move.ts.
-debug: Target(preview) ends with cost 255.41080000251532ms.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts.
+debug: Detected change: file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts. Last mtime: Fri Jun 24 2022 10:27:36 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be, Current mtime: Sat Jun 25 2022 14:47:57 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be
+debug: Inspect file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve ./Item from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve ./ItemShip from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts.
+debug: Target(preview) ends with cost 110.6059999987483ms.
 debug: Dispatch build request for time accumulated 1 asset changes.
 debug: Build iteration starts.
 Number of accumulated asset changes: 1
 Feature changed: false
 debug: Target(editor) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 14:01:10 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 14:02:30 GMT+0700 (Indochina Time)
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:04:01 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 08:07:03 GMT+0800 (Indochina Time)
 debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts.
-debug: Detected change: file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts. Last mtime: Fri Jun 24 2022 17:22:54 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be, Current mtime: Fri Jun 24 2022 17:24:13 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be
-debug: Inspect file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
-debug: Resolve ./Item from file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts as file:///D:/CMS/TextCMS/assets/Scripts/Item.ts.
-debug: Resolve ./ItemShip from file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts as file:///D:/CMS/TextCMS/assets/Scripts/ItemShip.ts.
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/Item.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/Item.ts.
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/ItemShip.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/ItemShip.ts.
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/JsonData.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/JsonData.ts.
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/move.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/move.ts.
-debug: Target(editor) ends with cost 142.56390000134706ms.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts.
+debug: Detected change: file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts. Last mtime: Sat Jun 25 2022 14:47:57 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be, Current mtime: Sat Jun 25 2022 14:50:59 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be
+debug: Inspect file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve ./Item from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve ./ItemShip from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts.
+debug: Target(editor) ends with cost 82.69050000235438ms.
 debug: Target(preview) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 14:01:10 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 14:02:30 GMT+0700 (Indochina Time)
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:04:01 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 08:07:03 GMT+0800 (Indochina Time)
 debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts.
-debug: Detected change: file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts. Last mtime: Fri Jun 24 2022 17:22:54 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be, Current mtime: Fri Jun 24 2022 17:24:13 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be
-debug: Inspect file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
-debug: Resolve ./Item from file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts as file:///D:/CMS/TextCMS/assets/Scripts/Item.ts.
-debug: Resolve ./ItemShip from file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts as file:///D:/CMS/TextCMS/assets/Scripts/ItemShip.ts.
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/Item.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/Item.ts.
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/ItemShip.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/ItemShip.ts.
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/JsonData.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/JsonData.ts.
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/move.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/move.ts.
-debug: Target(preview) ends with cost 191.24060000106692ms.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts.
+debug: Detected change: file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts. Last mtime: Sat Jun 25 2022 14:47:57 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be, Current mtime: Sat Jun 25 2022 14:50:59 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be
+debug: Inspect file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve ./Item from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve ./ItemShip from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts.
+debug: Target(preview) ends with cost 139.80269999802113ms.
 debug: Dispatch build request for time accumulated 1 asset changes.
 debug: Build iteration starts.
 Number of accumulated asset changes: 1
 Feature changed: false
 debug: Target(editor) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 14:02:30 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 14:04:01 GMT+0700 (Indochina Time)
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:07:03 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 08:08:17 GMT+0800 (Indochina Time)
 debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts.
-debug: Detected change: file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts. Last mtime: Fri Jun 24 2022 17:24:13 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be, Current mtime: Fri Jun 24 2022 17:25:40 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be
-debug: Inspect file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
-debug: Resolve ./Item from file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts as file:///D:/CMS/TextCMS/assets/Scripts/Item.ts.
-debug: Resolve ./ItemShip from file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts as file:///D:/CMS/TextCMS/assets/Scripts/ItemShip.ts.
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/Item.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/Item.ts.
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/ItemShip.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/ItemShip.ts.
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/JsonData.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/JsonData.ts.
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/move.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/move.ts.
-debug: Target(editor) ends with cost 140.44519999995828ms.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts.
+debug: Detected change: file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts. Last mtime: Sat Jun 25 2022 14:50:59 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be, Current mtime: Sat Jun 25 2022 14:52:13 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be
+debug: Inspect file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve ./Item from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve ./ItemShip from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts.
+debug: Target(editor) ends with cost 77.24750000238419ms.
 debug: Target(preview) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 14:02:30 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 14:04:01 GMT+0700 (Indochina Time)
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:07:03 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 08:08:17 GMT+0800 (Indochina Time)
 debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts.
-debug: Detected change: file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts. Last mtime: Fri Jun 24 2022 17:24:13 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be, Current mtime: Fri Jun 24 2022 17:25:40 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be
-debug: Inspect file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
-debug: Resolve ./Item from file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts as file:///D:/CMS/TextCMS/assets/Scripts/Item.ts.
-debug: Resolve ./ItemShip from file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts as file:///D:/CMS/TextCMS/assets/Scripts/ItemShip.ts.
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/Item.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/Item.ts.
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/ItemShip.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/ItemShip.ts.
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/JsonData.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/JsonData.ts.
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/move.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/move.ts.
-debug: Target(preview) ends with cost 193.48499999940395ms.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts.
+debug: Detected change: file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts. Last mtime: Sat Jun 25 2022 14:50:59 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be, Current mtime: Sat Jun 25 2022 14:52:13 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be
+debug: Inspect file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve ./Item from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve ./ItemShip from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts.
+debug: Target(preview) ends with cost 105.8019000031054ms.
 debug: Dispatch build request for time accumulated 1 asset changes.
 debug: Build iteration starts.
 Number of accumulated asset changes: 1
 Feature changed: false
 debug: Target(editor) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 14:04:01 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 14:07:41 GMT+0700 (Indochina Time)
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:08:17 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 08:08:44 GMT+0800 (Indochina Time)
 debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts.
-debug: Detected change: file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts. Last mtime: Fri Jun 24 2022 17:25:40 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be, Current mtime: Fri Jun 24 2022 17:27:36 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be
-debug: Inspect file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
-debug: Resolve ./Item from file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts as file:///D:/CMS/TextCMS/assets/Scripts/Item.ts.
-debug: Resolve ./ItemShip from file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts as file:///D:/CMS/TextCMS/assets/Scripts/ItemShip.ts.
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/Item.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/Item.ts.
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/ItemShip.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/ItemShip.ts.
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/JsonData.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/JsonData.ts.
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/move.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/move.ts.
-debug: Target(editor) ends with cost 125.82270000129938ms.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts.
+debug: Detected change: file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts. Last mtime: Sat Jun 25 2022 14:52:13 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be, Current mtime: Sat Jun 25 2022 14:52:41 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be
+debug: Inspect file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve ./Item from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve ./ItemShip from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts.
+debug: Target(editor) ends with cost 75.53500000014901ms.
 debug: Target(preview) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 14:04:01 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 14:07:41 GMT+0700 (Indochina Time)
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:08:17 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 08:08:44 GMT+0800 (Indochina Time)
 debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts.
-debug: Detected change: file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts. Last mtime: Fri Jun 24 2022 17:25:40 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be, Current mtime: Fri Jun 24 2022 17:27:36 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be
-debug: Inspect file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
-debug: Resolve ./Item from file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts as file:///D:/CMS/TextCMS/assets/Scripts/Item.ts.
-debug: Resolve ./ItemShip from file:///D:/CMS/TextCMS/assets/Scripts/Gamemanager.ts as file:///D:/CMS/TextCMS/assets/Scripts/ItemShip.ts.
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/Item.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/Item.ts.
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/ItemShip.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/ItemShip.ts.
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/JsonData.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/JsonData.ts.
-debug: Resolve file:///D:/CMS/TextCMS/assets/Scripts/move.ts from cce:/internal/x/prerequisite-imports as file:///D:/CMS/TextCMS/assets/Scripts/move.ts.
-debug: Target(preview) ends with cost 193.08330000191927ms.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts.
+debug: Detected change: file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts. Last mtime: Sat Jun 25 2022 14:52:13 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be, Current mtime: Sat Jun 25 2022 14:52:41 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be
+debug: Inspect file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve ./Item from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve ./ItemShip from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts.
+debug: Target(preview) ends with cost 108.3002999983728ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:08:44 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 08:09:18 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts.
+debug: Detected change: file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts. Last mtime: Sat Jun 25 2022 14:52:41 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be, Current mtime: Sat Jun 25 2022 14:53:07 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be
+debug: Inspect file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve ./Item from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve ./ItemShip from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts.
+debug: Target(editor) ends with cost 75.16459999978542ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:08:44 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 08:09:18 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts.
+debug: Detected change: file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts. Last mtime: Sat Jun 25 2022 14:52:41 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be, Current mtime: Sat Jun 25 2022 14:53:07 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be
+debug: Inspect file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve ./Item from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve ./ItemShip from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts.
+debug: Target(preview) ends with cost 98.61959999799728ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:09:18 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 08:10:24 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts.
+debug: Detected change: file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts. Last mtime: Sat Jun 25 2022 14:53:07 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be, Current mtime: Sat Jun 25 2022 14:54:20 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be
+debug: Inspect file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve ./Item from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve ./ItemShip from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts.
+debug: Target(editor) ends with cost 79.42049999907613ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:09:18 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 08:10:24 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts.
+debug: Detected change: file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts. Last mtime: Sat Jun 25 2022 14:53:07 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be, Current mtime: Sat Jun 25 2022 14:54:20 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be
+debug: Inspect file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve ./Item from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve ./ItemShip from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts.
+debug: Target(preview) ends with cost 107.07469999790192ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:10:24 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 09:02:10 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts.
+debug: Detected change: file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts. Last mtime: Sat Jun 25 2022 14:54:20 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be, Current mtime: Sat Jun 25 2022 15:46:03 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be
+debug: Inspect file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve ./Item from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve ./ItemShip from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts.
+debug: Target(editor) ends with cost 72.5359000004828ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:10:24 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 09:02:10 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts.
+debug: Detected change: file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts. Last mtime: Sat Jun 25 2022 14:54:20 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be, Current mtime: Sat Jun 25 2022 15:46:03 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be
+debug: Inspect file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve ./Item from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve ./ItemShip from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts.
+debug: Target(preview) ends with cost 106.45700000226498ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 09:02:10 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 09:02:34 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts.
+debug: Detected change: file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts. Last mtime: Sat Jun 25 2022 15:46:03 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be, Current mtime: Sat Jun 25 2022 15:46:30 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be
+debug: Inspect file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve ./Item from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve ./ItemShip from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts.
+debug: Target(editor) ends with cost 72.40330000221729ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 09:02:10 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 09:02:34 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts.
+debug: Detected change: file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts. Last mtime: Sat Jun 25 2022 15:46:03 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be, Current mtime: Sat Jun 25 2022 15:46:30 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be
+debug: Inspect file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve ./Item from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve ./ItemShip from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts.
+debug: Target(preview) ends with cost 98.63519999757409ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 09:02:34 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 09:03:56 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts.
+debug: Detected change: file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts. Last mtime: Sat Jun 25 2022 15:46:30 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be, Current mtime: Sat Jun 25 2022 15:47:52 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be
+debug: Inspect file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve ./Item from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve ./ItemShip from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts.
+debug: Target(editor) ends with cost 67.90509999915957ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 09:02:34 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 09:03:56 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts.
+debug: Detected change: file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts. Last mtime: Sat Jun 25 2022 15:46:30 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be, Current mtime: Sat Jun 25 2022 15:47:52 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be
+debug: Inspect file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve ./Item from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve ./ItemShip from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts.
+debug: Target(preview) ends with cost 94.52710000053048ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 09:03:56 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 09:04:43 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts.
+debug: Detected change: file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts. Last mtime: Sat Jun 25 2022 15:47:52 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be, Current mtime: Sat Jun 25 2022 15:48:40 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be
+debug: Inspect file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve ./Item from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve ./ItemShip from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts.
+debug: Target(editor) ends with cost 68.34899999946356ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 09:03:56 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 09:04:43 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts.
+debug: Detected change: file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts. Last mtime: Sat Jun 25 2022 15:47:52 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be, Current mtime: Sat Jun 25 2022 15:48:40 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be
+debug: Inspect file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve ./Item from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve ./ItemShip from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts.
+debug: Target(preview) ends with cost 97.24120000004768ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 09:04:43 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 09:06:31 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts.
+debug: Detected change: file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts. Last mtime: Sat Jun 25 2022 15:48:40 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be, Current mtime: Sat Jun 25 2022 15:50:27 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be
+debug: Inspect file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve ./Item from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve ./ItemShip from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts.
+debug: Target(editor) ends with cost 76.31110000237823ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 09:04:43 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 09:06:31 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts.
+debug: Detected change: file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts. Last mtime: Sat Jun 25 2022 15:48:40 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be, Current mtime: Sat Jun 25 2022 15:50:27 GMT+0700 (Indochina Time)@8a173564-f174-4d82-aeac-f5abf8a022be
+debug: Inspect file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as cce:/internal/x/cc.
+debug: Resolve ./Item from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve ./ItemShip from file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Gamemanager.ts as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/Item.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/ItemShip.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/JsonData.ts.
+debug: Resolve file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/VuDuong/Downloads/TextCMS/assets/Scripts/move.ts.
+debug: Target(preview) ends with cost 112.132199998945ms.
